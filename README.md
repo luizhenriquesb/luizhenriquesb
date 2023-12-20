@@ -5,7 +5,7 @@
 - ✨ To get to know a bit about my work, I would like to highlight some brief analysis below about:
   - [Internet Movie Data Base (IMDb)](https://luizhenriquesb.github.io/explorando-IMDb/)
   - [Party membership in Brazil](https://luizhenriquesb.github.io/filiacao-partidaria-br-202307/)
-  - [Brazil Human Development Index](https://luizhenriquesb.github.io/DataViz-de-olho-no-idhm/) 
+  - [Brazil Human Development Index (1990, 2000, 2010)](https://luizhenriquesb.github.io/DataViz-de-olho-no-idhm/) 
 <!---
 luizhenriquesb/luizhenriquesb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
