@@ -6,7 +6,7 @@
   - [Internet Movie Data Base (IMDb)](https://luizhenriquesb.github.io/explorando-IMDb/)
   - [Party membership in Brazil](https://luizhenriquesb.github.io/filiacao-partidaria-br-202307/)
   - [Brazil Human Development Index](https://luizhenriquesb.github.io/DataViz-de-olho-no-idhm/)
-  - [Access to social benefits)](https://luizhenriquesb.github.io/cgu_beneficios_sociais/)
+  - [Access to social benefits](https://luizhenriquesb.github.io/cgu_beneficios_sociais/)
  
 - ⏱️ I'll be posting more analysis here soon!
 <!---
