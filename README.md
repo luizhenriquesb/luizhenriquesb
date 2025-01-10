@@ -1,4 +1,4 @@
-- 👋 Hello, welcome to my profile! My name is Luiz Henrique and I'm an undergraduate student in Social Sciences at University of São Paulo, currently in my sixth semester. 
+- 👋 Hello, welcome to my profile! My name is Luiz Henrique and I'm an undergraduate student in Social Sciences at University of São Paulo. 
 
 - ✨ Political Science, Public Policies and Data Analysis are my favorite study topics. Here, on my GitHub, you'll find some R code that explores datasets related to these topics (directly or indirectly).
 
