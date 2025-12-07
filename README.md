@@ -1,8 +1,8 @@
-- 👋 Hello, welcome to my profile! My name is Luiz Henrique and I'm a Social Scientist passionate about data, programming and statistic, like many others social scientists :) 
+- 👋 Hello, welcome to my profile! My name is Luiz Henrique, and I'm a Social Scientist passionate about data, programming, and statistics — like many other social scientists :) 
 
-- ✨ Here, on my GitHub, you'll find some code that explores datasets related to these intersection and social sciences and qauntitative methods. 
+- ✨ Here on my GitHub, you'll find code that explores datasets at the intersection of social sciences and quantitative methods.
 
-- 👀 To get to know a bit about my work, I would like to highlight some brief analysis below about:
+- 👀 To get to know a bit about my work, here are some analyses I've published:
   
   - [Internet Movie Data Base (IMDb)](https://luizhenriquesb.github.io/explorando-IMDb/)
   - [Party membership in Brazil](https://luizhenriquesb.github.io/filiacao-partidaria-br-202307/)
